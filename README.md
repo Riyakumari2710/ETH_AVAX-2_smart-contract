@@ -28,7 +28,7 @@ To run this program, First create a directory , switch to that directory and ope
 
 ## Authors
 
-Riyakumari2710
+Riya kumari @Riyakumari2710
 
 
 
